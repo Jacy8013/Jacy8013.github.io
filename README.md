@@ -1,4 +1,6 @@
-# Jacy's Blog
+# Jacy Liang
+
+Just single page
 
 Used `Particle Jekyll Theme!`
 
